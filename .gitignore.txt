@@ -1,3 +1,5 @@
 # Ignore .gitignore directory
 
-.gitignore
+.gitignore/
+
+**./gitignore/
